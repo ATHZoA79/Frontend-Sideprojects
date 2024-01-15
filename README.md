@@ -1,14 +1,14 @@
 # Frontend-Sideprojects
 
-- RWD Practice
+- RWD Practice：
 https://athzoa79.github.io/Frontend-Sideprojects/0825-rwd_practice
-- SCSS Animation
+- SCSS Animation：
 https://athzoa79.github.io/Frontend-Sideprojects/0902-sass_animation
-- WeatherAPI Card Ver.
+- WeatherAPI Card Ver.：
 https://athzoa79.github.io/Frontend-Sideprojects/0915-weather_card
-- WeatherAPI Map Ver.
+- WeatherAPI Map Ver.：
 https://athzoa79.github.io/Frontend-Sideprojects/weatherAPI_Map_ver
-- Microsoft Official Weebsite Copy
+- Microsoft Official Weebsite Copy：
 https://athzoa79.github.io/Frontend-Sideprojects/MS-layout
-- Bootsrap Practice
+- Bootsrap Practice：
 https://athzoa79.github.io/Frontend-Sideprojects/1011_bootstrap_layout
